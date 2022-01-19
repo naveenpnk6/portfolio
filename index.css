@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: rgb(71, 245, 187);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+   
+   
+}
+.content{
+    margin: 10px;
+    left: 50px;
+    align-self: center;
+}
+.image{
+    margin: 10px;
+    height: 200px;
+    width: 150px;
+    border-radius: 50%;
+    align-self: center;
+    box-shadow: 3px 3px  rgb(56, 189, 144);
+    
+}
